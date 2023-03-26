@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: 200%;
+    background: black;
+    background-color: plum;
+}
+#imagen-over{
+    width: 80px;
+    height: 60px;
+    text-align: center;
+}
+h1{
+    color: royalblue;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px mediumorchid;
+
+}
+h4{
+    color: royalblue;
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px mediumorchid;
+    margin: 10px;
+}
+h3{
+    color:beige;
+    font-size: 25;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px mediumorchid ;
+    margin: 15px;
+
+}

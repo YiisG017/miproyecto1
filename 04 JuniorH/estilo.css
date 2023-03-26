@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: 200%;
+    background: black;
+    background-color: paleturquoise;
+}
+#imagen{
+    width: 80px;
+    height: 60px;
+    text-align: center;
+}
+h1{
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px thistle;
+
+}
+h4{
+    color:black;
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px thistle;
+    margin: 10px;
+}
+h3{
+    color:black;
+    font-size: 25;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px thistle ;
+    margin: 15px;
+
+}

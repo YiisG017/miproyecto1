@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: 200%;
+    background: black;
+    background-color: palegreen;
+}
+#imagen{
+    width: 80px;
+    height: 60px;
+    text-align: center;
+}
+h1{
+    color: darkslategray;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px palegreen;
+
+}
+h4{
+    color:darkslategray;
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px palegreen;
+    margin: 10px;
+}
+h3{
+    color:darkslategray;
+    font-size: 25;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px palegreen ;
+    margin: 15px;
+
+}
